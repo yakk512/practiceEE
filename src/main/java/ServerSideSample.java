@@ -16,7 +16,7 @@ import javax.inject.Named;
 @RequestScoped
 public class ServerSideSample {
     
-    private String inputName;
+    private String inputName="hoge";
     
     public String getHoge()
     {
